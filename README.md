@@ -1,6 +1,6 @@
-<h1 align="center">Olá! 👋 Eu sou Matheus Henrique</h1>
+<h1>Matheus Henrique</h1>
 
-<p align="center">
+<p>
 🎓 Estudante de Ciência da Computação <br>
 💻 Apaixonado por programação e tecnologia
 </p>
@@ -10,8 +10,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Atualmente curso **Ciência da Computação**.
-- 📚 Estou estudando **Programação Orientada a Objetos (Java)**, estruturas de dados e desenvolvimento de software.
-- 🚀 Tenho interesse em desenvolvimento de software, desenvolvimento web, bancos de dados e inteligência artificial.
+- 🚀 Tenho interesse em desenvolvimento de software, desenvolvimento web e bancos de dados.
 - 🌱 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ---
