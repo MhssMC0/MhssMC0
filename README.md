@@ -1,5 +1,5 @@
 <h1>Matheus Henrique</h1>
-
+---
 <p>
 🎓 Estudante de Ciência da Computação <br>
 💻 Apaixonado por programação e tecnologia
