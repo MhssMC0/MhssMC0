@@ -1,54 +1,38 @@
-# 👋 Olá, eu sou Matheus Henrique!
+<h1 align="center">Olá! 👋 Eu sou Matheus Henrique</h1>
 
-🎓 **Estudante de Ciência da Computação**  
-📚 Repositório criado para a disciplina de **Programação Orientada a Objetos (POO)**.
+<p align="center">
+🎓 Estudante de Ciência da Computação <br>
+💻 Apaixonado por programação e tecnologia
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação e gosto de aprender novas tecnologias e desenvolver soluções utilizando programação. Tenho interesse principalmente em desenvolvimento de software, programação orientada a objetos e desenvolvimento web.
-
-Além da programação, também participo de um projeto de capoeira, onde atuo na organização administrativa e no suporte às atividades do projeto.
+- 🎓 Atualmente curso **Ciência da Computação**.
+- 📚 Estou estudando **Programação Orientada a Objetos (Java)**, estruturas de dados e desenvolvimento de software.
+- 🚀 Tenho interesse em desenvolvimento de software, desenvolvimento web, bancos de dados e inteligência artificial.
+- 🌱 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ---
 
-## 🚀 Tecnologias que estudo
+## 🛠️ Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github,vscode,mysql" />
 </p>
 
 ---
 
-## 📂 Sobre este repositório
+## 📊 GitHub Stats
 
-Este repositório foi criado para armazenar as atividades, exercícios e projetos desenvolvidos durante a disciplina de **Programação Orientada a Objetos (POO)**.
-
-Aqui você encontrará conteúdos relacionados a:
-
-- 📌 Classes e Objetos
-- 📌 Encapsulamento
-- 📌 Herança
-- 📌 Polimorfismo
-- 📌 Abstração
-- 📌 Tratamento de Exceções
-- 📌 Coleções
-- 📌 Boas práticas de programação
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Contato
-
-- 📧 Email: matheus.santos5@estudante.ifgoiano.edu.br
-- 🐙 GitHub: https://github.com/MhssMC0
-
----
-
-<div align="center">
-
-### Obrigado pela visita! 🚀
-
-*"Sempre aprendendo e evoluindo através da programação."*
-
-</div>
+<p align="center">
+  <i>"Aprendendo um pouco mais a cada linha de código."</i> 🚀
+</p>
