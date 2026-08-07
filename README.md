@@ -7,14 +7,6 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-- 🎓 Atualmente curso **Ciência da Computação**.
-- 🚀 Tenho interesse em desenvolvimento de software, desenvolvimento web e bancos de dados.
-- 🌱 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-
----
-
 ## 🛠️ Tecnologias
 
 <p align="center">
